@@ -1,4 +1,4 @@
-# Bugbounty-Tools
+# Bugbounty Tools
 - [scan4all](https://github.com/hktalent/scan4all)
 - [subjack](https://github.com/haccer/subjack)
 - [unfurl](https://github.com/tomnomnom/unfurl)
