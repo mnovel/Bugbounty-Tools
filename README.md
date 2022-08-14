@@ -44,3 +44,4 @@
 - [kxss](https://github.com/Emoe/kxss)
 - [Gf-Patterns](https://github.com/1ndianl33t/Gf-Patterns)
 - [gauplus](https://github.com/bp0lr/gauplus)
+- [gospider](https://github.com/jaeles-project/gospider)
